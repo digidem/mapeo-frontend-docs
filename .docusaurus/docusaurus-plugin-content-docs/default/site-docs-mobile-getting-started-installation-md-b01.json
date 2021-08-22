@@ -1,0 +1,23 @@
+{
+  "unversionedId": "mobile/getting-started/installation",
+  "id": "mobile/getting-started/installation",
+  "isDocsHomePage": false,
+  "title": "Installation",
+  "description": "",
+  "source": "@site/docs/mobile/getting-started/installation.md",
+  "sourceDirName": "mobile/getting-started",
+  "slug": "/mobile/getting-started/installation",
+  "permalink": "/docs/mobile/getting-started/installation",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/getting-started/installation.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mobile",
+  "previous": {
+    "title": "About Mapeo Mobile",
+    "permalink": "/docs/mobile/about"
+  },
+  "next": {
+    "title": "Navigation",
+    "permalink": "/docs/mobile/navigation"
+  }
+}

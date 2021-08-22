@@ -1,0 +1,18 @@
+{
+  "unversionedId": "mobile/mobile",
+  "id": "mobile/mobile",
+  "isDocsHomePage": false,
+  "title": "This is a test",
+  "description": "",
+  "source": "@site/docs/mobile/mobile.md",
+  "sourceDirName": "mobile",
+  "slug": "/mobile/mobile",
+  "permalink": "/docs/mobile/mobile",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/mobile.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "mobile"
+}

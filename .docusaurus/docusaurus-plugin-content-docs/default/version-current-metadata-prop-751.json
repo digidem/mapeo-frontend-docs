@@ -1,0 +1,75 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": "none",
+  "isLast": true,
+  "docsSidebars": {
+    "mobile": [
+      {
+        "type": "category",
+        "label": "Mobile",
+        "items": [
+          {
+            "type": "link",
+            "label": "About Mapeo Mobile",
+            "href": "/docs/mobile/about"
+          },
+          {
+            "type": "category",
+            "label": "Getting Started",
+            "items": [
+              {
+                "type": "link",
+                "label": "Installation",
+                "href": "/docs/mobile/getting-started/installation"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          },
+          {
+            "type": "link",
+            "label": "Navigation",
+            "href": "/docs/mobile/navigation"
+          },
+          {
+            "type": "category",
+            "label": "Onboarding",
+            "items": [
+              {
+                "type": "link",
+                "label": "Create A Project",
+                "href": "/docs/mobile/onboarding/create-project"
+              },
+              {
+                "type": "link",
+                "label": "Join a Project",
+                "href": "/docs/mobile/onboarding/join-project"
+              }
+            ],
+            "collapsed": true,
+            "collapsible": true
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      }
+    ],
+    "desktop": [
+      {
+        "type": "category",
+        "label": "Desktop",
+        "items": [
+          {
+            "type": "link",
+            "label": "Test for desktop",
+            "href": "/docs/desktop/desktop"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      }
+    ]
+  }
+}

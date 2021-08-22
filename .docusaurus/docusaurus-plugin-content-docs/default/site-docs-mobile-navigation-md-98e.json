@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mobile/navigation",
+  "id": "mobile/navigation",
+  "isDocsHomePage": false,
+  "title": "Navigation",
+  "description": "Mapeo Mobile uses (React Navigation)[https://reactnavigation.org/docs/getting-started/] v6.",
+  "source": "@site/docs/mobile/navigation.md",
+  "sourceDirName": "mobile",
+  "slug": "/mobile/navigation",
+  "permalink": "/docs/mobile/navigation",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/navigation.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "mobile",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/mobile/getting-started/installation"
+  },
+  "next": {
+    "title": "Create A Project",
+    "permalink": "/docs/mobile/onboarding/create-project"
+  }
+}

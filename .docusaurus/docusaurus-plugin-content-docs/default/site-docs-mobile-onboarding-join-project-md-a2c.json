@@ -1,0 +1,19 @@
+{
+  "unversionedId": "mobile/onboarding/joinProject",
+  "id": "mobile/onboarding/joinProject",
+  "isDocsHomePage": false,
+  "title": "joinProject",
+  "description": "",
+  "source": "@site/docs/mobile/onboarding/joinProject.md",
+  "sourceDirName": "mobile/onboarding",
+  "slug": "/mobile/onboarding/joinProject",
+  "permalink": "/docs/mobile/onboarding/joinProject",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/onboarding/joinProject.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mobile",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/mobile/getting-started/installation"
+  }
+}

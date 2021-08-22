@@ -1,0 +1,395 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/master/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": "none",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/erik/Documents/DigitalDemocracy/mapeo-frontend-docs/sidebars.js",
+          "contentPath": "/Users/erik/Documents/DigitalDemocracy/mapeo-frontend-docs/docs",
+          "contentPathLocalized": "/Users/erik/Documents/DigitalDemocracy/mapeo-frontend-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "mobile/about",
+          "sidebars": {
+            "mobile": [
+              {
+                "type": "category",
+                "label": "Mobile",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "mobile/about"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Getting Started",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "mobile/getting-started/installation"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  },
+                  {
+                    "type": "doc",
+                    "id": "mobile/navigation"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Onboarding",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "mobile/onboarding/create-project"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "mobile/onboarding/join-project"
+                      }
+                    ],
+                    "collapsed": true,
+                    "collapsible": true
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              }
+            ],
+            "desktop": [
+              {
+                "type": "category",
+                "label": "Desktop",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "desktop/desktop"
+                  }
+                ],
+                "collapsible": true,
+                "collapsed": true
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "desktop/desktop",
+              "id": "desktop/desktop",
+              "isDocsHomePage": false,
+              "title": "Test for desktop",
+              "description": "",
+              "source": "@site/docs/desktop/desktop.md",
+              "sourceDirName": "desktop",
+              "slug": "/desktop/desktop",
+              "permalink": "/docs/desktop/desktop",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/desktop/desktop.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "desktop"
+            },
+            {
+              "unversionedId": "mobile/about",
+              "id": "mobile/about",
+              "isDocsHomePage": false,
+              "title": "About Mapeo Mobile",
+              "description": "",
+              "source": "@site/docs/mobile/about.md",
+              "sourceDirName": "mobile",
+              "slug": "/mobile/about",
+              "permalink": "/docs/mobile/about",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/about.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "mobile",
+              "next": {
+                "title": "Installation",
+                "permalink": "/docs/mobile/getting-started/installation"
+              }
+            },
+            {
+              "unversionedId": "mobile/getting-started/installation",
+              "id": "mobile/getting-started/installation",
+              "isDocsHomePage": false,
+              "title": "Installation",
+              "description": "",
+              "source": "@site/docs/mobile/getting-started/installation.md",
+              "sourceDirName": "mobile/getting-started",
+              "slug": "/mobile/getting-started/installation",
+              "permalink": "/docs/mobile/getting-started/installation",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/getting-started/installation.md",
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "mobile",
+              "previous": {
+                "title": "About Mapeo Mobile",
+                "permalink": "/docs/mobile/about"
+              },
+              "next": {
+                "title": "Navigation",
+                "permalink": "/docs/mobile/navigation"
+              }
+            },
+            {
+              "unversionedId": "mobile/navigation",
+              "id": "mobile/navigation",
+              "isDocsHomePage": false,
+              "title": "Navigation",
+              "description": "Mapeo Mobile uses (React Navigation)[https://reactnavigation.org/docs/getting-started/] v6.",
+              "source": "@site/docs/mobile/navigation.md",
+              "sourceDirName": "mobile",
+              "slug": "/mobile/navigation",
+              "permalink": "/docs/mobile/navigation",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/navigation.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "mobile",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/docs/mobile/getting-started/installation"
+              },
+              "next": {
+                "title": "Create A Project",
+                "permalink": "/docs/mobile/onboarding/create-project"
+              }
+            },
+            {
+              "unversionedId": "mobile/onboarding/create-project",
+              "id": "mobile/onboarding/create-project",
+              "isDocsHomePage": false,
+              "title": "Create A Project",
+              "description": "",
+              "source": "@site/docs/mobile/onboarding/create-project.md",
+              "sourceDirName": "mobile/onboarding",
+              "slug": "/mobile/onboarding/create-project",
+              "permalink": "/docs/mobile/onboarding/create-project",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/onboarding/create-project.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "mobile",
+              "previous": {
+                "title": "Navigation",
+                "permalink": "/docs/mobile/navigation"
+              },
+              "next": {
+                "title": "Join a Project",
+                "permalink": "/docs/mobile/onboarding/join-project"
+              }
+            },
+            {
+              "unversionedId": "mobile/onboarding/join-project",
+              "id": "mobile/onboarding/join-project",
+              "isDocsHomePage": false,
+              "title": "Join a Project",
+              "description": "A user can join a project using:",
+              "source": "@site/docs/mobile/onboarding/join-project.md",
+              "sourceDirName": "mobile/onboarding",
+              "slug": "/mobile/onboarding/join-project",
+              "permalink": "/docs/mobile/onboarding/join-project",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/onboarding/join-project.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "mobile",
+              "previous": {
+                "title": "Create A Project",
+                "permalink": "/docs/mobile/onboarding/create-project"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-30-welcome.md",
+            "source": "@site/blog/2019-05-30-welcome.md",
+            "title": "Welcome",
+            "description": "Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!",
+            "date": "2019-05-30T00:00:00.000Z",
+            "formattedDate": "May 30, 2019",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "nextItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        },
+        {
+          "id": "hello-world",
+          "metadata": {
+            "permalink": "/blog/hello-world",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-29-hello-world.md",
+            "source": "@site/blog/2019-05-29-hello-world.md",
+            "title": "Hello",
+            "description": "Welcome to this blog. This blog is created with Docusaurus 2.",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.115,
+            "truncated": true,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Hola",
+              "permalink": "/blog/hola"
+            }
+          }
+        },
+        {
+          "id": "hola",
+          "metadata": {
+            "permalink": "/blog/hola",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/blog/2019-05-28-hola.md",
+            "source": "@site/blog/2019-05-28-hola.md",
+            "title": "Hola",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "prevItem": {
+              "title": "Hello",
+              "permalink": "/blog/hello-world"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 3,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ]
+        }
+      ],
+      "blogTags": {
+        "facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "hello-world"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "hello-world",
+            "hola"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "hola": {
+          "name": "hola",
+          "items": [
+            "hola"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

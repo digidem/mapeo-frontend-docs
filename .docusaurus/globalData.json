@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "mobile/about",
+          "docs": [
+            {
+              "id": "desktop/desktop",
+              "path": "/docs/desktop/desktop",
+              "sidebar": "desktop"
+            },
+            {
+              "id": "mobile/about",
+              "path": "/docs/mobile/about",
+              "sidebar": "mobile"
+            },
+            {
+              "id": "mobile/getting-started/installation",
+              "path": "/docs/mobile/getting-started/installation",
+              "sidebar": "mobile"
+            },
+            {
+              "id": "mobile/navigation",
+              "path": "/docs/mobile/navigation",
+              "sidebar": "mobile"
+            },
+            {
+              "id": "mobile/onboarding/create-project",
+              "path": "/docs/mobile/onboarding/create-project",
+              "sidebar": "mobile"
+            },
+            {
+              "id": "mobile/onboarding/join-project",
+              "path": "/docs/mobile/onboarding/join-project",
+              "sidebar": "mobile"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

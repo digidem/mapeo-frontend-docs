@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mobile/onboarding/create-project",
+  "id": "mobile/onboarding/create-project",
+  "isDocsHomePage": false,
+  "title": "Create A Project",
+  "description": "",
+  "source": "@site/docs/mobile/onboarding/create-project.md",
+  "sourceDirName": "mobile/onboarding",
+  "slug": "/mobile/onboarding/create-project",
+  "permalink": "/docs/mobile/onboarding/create-project",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/onboarding/create-project.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mobile",
+  "previous": {
+    "title": "Navigation",
+    "permalink": "/docs/mobile/navigation"
+  },
+  "next": {
+    "title": "Join a Project",
+    "permalink": "/docs/mobile/onboarding/join-project"
+  }
+}

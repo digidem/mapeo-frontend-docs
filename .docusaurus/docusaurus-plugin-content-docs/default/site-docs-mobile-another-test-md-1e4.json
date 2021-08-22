@@ -1,0 +1,22 @@
+{
+  "unversionedId": "mobile/anotherTest",
+  "id": "mobile/anotherTest",
+  "isDocsHomePage": false,
+  "title": "This is another test",
+  "description": "",
+  "source": "@site/docs/mobile/anotherTest.md",
+  "sourceDirName": "mobile",
+  "slug": "/mobile/anotherTest",
+  "permalink": "/docs/mobile/anotherTest",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/anotherTest.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "mobile",
+  "next": {
+    "title": "This is a test",
+    "permalink": "/docs/mobile/mobile"
+  }
+}

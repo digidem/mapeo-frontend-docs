@@ -1,0 +1,18 @@
+{
+  "unversionedId": "mapeo-mobile/mobile",
+  "id": "mapeo-mobile/mobile",
+  "isDocsHomePage": false,
+  "title": "This is a test",
+  "description": "",
+  "source": "@site/docs/mapeo-mobile/mobile.md",
+  "sourceDirName": "mapeo-mobile",
+  "slug": "/mapeo-mobile/mobile",
+  "permalink": "/docs/mapeo-mobile/mobile",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mapeo-mobile/mobile.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mobile"
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "mobile/getting-started/what",
+  "id": "mobile/getting-started/what",
+  "isDocsHomePage": false,
+  "title": "Tell me more",
+  "description": "",
+  "source": "@site/docs/mobile/getting-started/what.md",
+  "sourceDirName": "mobile/getting-started",
+  "slug": "/mobile/getting-started/what",
+  "permalink": "/docs/mobile/getting-started/what",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/getting-started/what.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mobile",
+  "next": {
+    "title": "This is another test",
+    "permalink": "/docs/mobile/anotherTest"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "mobile/about",
+  "id": "mobile/about",
+  "isDocsHomePage": false,
+  "title": "About Mapeo Mobile",
+  "description": "",
+  "source": "@site/docs/mobile/about.md",
+  "sourceDirName": "mobile",
+  "slug": "/mobile/about",
+  "permalink": "/docs/mobile/about",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/mobile/about.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mobile",
+  "next": {
+    "title": "Installation",
+    "permalink": "/docs/mobile/getting-started/installation"
+  }
+}
